@@ -2,7 +2,7 @@
   "version": "1.3.0",
   "main": "./src/index.js",
   "name": "@arcaelas/eloquent",
-  "description": "Eloquent is a library for the manipulation of Collections and Models, using an ideology similar to Laravel Eloquent.",
+  "description": "Searching, filtering and mapping collections is the bread and butter for developers, that's why we offer you \"eloquent\".",
   "scripts": {
     "start": "tsc --watch",
     "prepublishOnly": "tsc && npm version minor",
@@ -10,8 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arcaelas/arcaelas.git",
-    "directory": "eloquent"
+    "url": "git+ssh://github.com/Arcaelas-Insiders-ES/eloquent.git"
   },
   "keywords": [
     "eloquent",
